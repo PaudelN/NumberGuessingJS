@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  text-align: center;
+  border: 1px solid;
+  height: 10rem;
+  width: 20rem;
+  padding: 10px;
+  box-shadow: 5px 5px 5px rgb(132, 150, 92);
+}
+
+#submitBtn {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 22px;
+}
